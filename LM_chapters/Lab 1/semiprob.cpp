@@ -1,6 +1,6 @@
 // This program demonstrates a compile error.
 
-// Place your name here
+// Krupa Dhruva
 
 #include <iostream>
 using namespace std;
@@ -10,7 +10,7 @@ int main()
 	int number;
 	float total;
 
-	cout << "Today is a great day for Lab"
+	cout << "Today is a great day for Lab";
 	cout << endl << "Let's start off by typing a number of your choice" << endl;
 	cin >> number;
 

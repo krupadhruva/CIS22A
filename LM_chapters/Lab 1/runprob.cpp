@@ -1,6 +1,6 @@
 // This program will take a number and divide it by 2.
 
-// Place your name here
+// Krupa Dhruva
 
 #include <iostream>
 using namespace std;
@@ -10,7 +10,7 @@ int main()
 	float number;
 	int divider;
 
-	divider = 0;
+	divider = 2;
 
 	cout << "Hi there" << endl;
 	cout << "Please input a number and then hit return" << endl;

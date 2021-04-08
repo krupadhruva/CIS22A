@@ -1,6 +1,6 @@
 // This is the first program that just writes out a simple message
 
-// Place your name here
+// Krupa Dhruva
 
 #include <iostream>	// needed to perform C++ I/O
 using namespace std;

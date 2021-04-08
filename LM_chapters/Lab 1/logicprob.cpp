@@ -2,7 +2,7 @@
 // before printing the values. The user will be prompted to enter
 // both numbers.
 
-// Place your name here
+// Krupa Dhruva
 
 #include <iostream>
 using namespace std;
@@ -26,9 +26,10 @@ int main()
 	cout << endl << "You input the numbers as " << firstNumber
 		 << " and " << secondNumber << endl;
 
-	// Now we will swap the values. 
+	// Now we will swap the values.
+	const float tmp = firstNumber;
 	firstNumber = secondNumber;
-	secondNumber = firstNumber;
+	secondNumber = tmp;
 
 	// Output the values.
 	cout << "After swapping, the values of the two numbers are "
