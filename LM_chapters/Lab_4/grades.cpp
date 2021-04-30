@@ -15,7 +15,6 @@ int main() {
     if (average >= 60) {
         cout << "You Pass" << endl;
     } else {
-        (average < 60);
         cout << "You Fail" << endl;
     }
 
