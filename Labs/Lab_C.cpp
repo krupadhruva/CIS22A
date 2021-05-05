@@ -1,3 +1,30 @@
+/* Lab_C focuses on if-else statements and logical operators. Program prompts
+ * user to input two primary colors and in turn, outputs the secondary color
+ * produced.
+ */
+
+// Krupa Dhruva
+
+// Program Output:
+/*
+OUTPUT #1:
+In lowercase, enter first primary color (red, blue, or yellow): red
+In lowercase, enter second primary color (red, blue, or yellow): blue
+
+When you mix red and blue, you get purple
+
+OUTPUT #2:
+In lowercase, enter first primary color (red, blue, or yellow): red
+In lowercase, enter second primary color (red, blue, or yellow): red
+
+When you mix red and red, you get red
+
+OUTPUT #3:
+In lowercase, enter first primary color (red, blue, or yellow): pink
+
+Invalid entry. Please try again.
+ */
+
 #include <iostream> // for C++ input & output
 using namespace std;
 
